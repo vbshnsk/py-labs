@@ -30,3 +30,6 @@ htmlcov/
 .idea/
 .vscode/
 .DS_Store
+
+# Datasets over GitHub's 100MB limit (download: see practical_8/resources/TASK.md)
+practical_8/resources/RAW_*.csv
